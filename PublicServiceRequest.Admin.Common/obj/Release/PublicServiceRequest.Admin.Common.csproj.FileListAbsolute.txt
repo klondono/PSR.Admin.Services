@@ -1,0 +1,5 @@
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\bin\Release\PublicServiceRequest.Admin.Common.dll
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\bin\Release\PublicServiceRequest.Admin.Common.pdb
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\obj\Release\PublicServiceRequest.Admin.Common.csprojResolveAssemblyReference.cache
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\obj\Release\PublicServiceRequest.Admin.Common.dll
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\obj\Release\PublicServiceRequest.Admin.Common.pdb

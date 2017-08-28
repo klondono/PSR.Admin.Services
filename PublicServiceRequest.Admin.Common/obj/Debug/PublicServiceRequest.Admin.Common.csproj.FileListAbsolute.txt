@@ -1,0 +1,4 @@
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\bin\Debug\PublicServiceRequest.Admin.Common.dll
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\bin\Debug\PublicServiceRequest.Admin.Common.pdb
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\obj\Debug\PublicServiceRequest.Admin.Common.dll
+C:\Users\kerwin\Documents\PAProjects\Solutions\PAIntra\Main\Services\PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Common\obj\Debug\PublicServiceRequest.Admin.Common.pdb

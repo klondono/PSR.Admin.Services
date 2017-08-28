@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicServiceRequest.Admin.Service", "PublicServiceRequest.Admin.Service\PublicServiceRequest.Admin.Service.csproj", "{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicServiceRequest.Admin.DAL", "PublicServiceRequest.Admin.DAL\PublicServiceRequest.Admin.DAL.csproj", "{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicServiceRequest.Admin.BLL", "PublicServiceRequest.Admin.BLL\PublicServiceRequest.Admin.BLL.csproj", "{3623B253-0E83-47F9-899E-7D70D5B13980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicServiceRequest.Admin.Common", "PublicServiceRequest.Admin.Common\PublicServiceRequest.Admin.Common.csproj", "{5FC537C1-5037-4587-94B5-CE6912D7B7B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		prodweb1panet|Any CPU = prodweb1panet|Any CPU
+		Release|Any CPU = Release|Any CPU
+		testweb1panet|Any CPU = testweb1panet|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.prodweb1panet|Any CPU.ActiveCfg = prodweb1panet|Any CPU
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.prodweb1panet|Any CPU.Build.0 = prodweb1panet|Any CPU
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.testweb1panet|Any CPU.ActiveCfg = testweb1panet|Any CPU
+		{9B9DB72A-4323-4A2F-BDE0-3A65B08DCD9D}.testweb1panet|Any CPU.Build.0 = testweb1panet|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.prodweb1panet|Any CPU.ActiveCfg = Release|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.prodweb1panet|Any CPU.Build.0 = Release|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.testweb1panet|Any CPU.ActiveCfg = Release|Any CPU
+		{4B917D08-3F76-4DA1-B9EB-D6EDD8FCF6D4}.testweb1panet|Any CPU.Build.0 = Release|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.prodweb1panet|Any CPU.ActiveCfg = Release|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.prodweb1panet|Any CPU.Build.0 = Release|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.testweb1panet|Any CPU.ActiveCfg = Release|Any CPU
+		{3623B253-0E83-47F9-899E-7D70D5B13980}.testweb1panet|Any CPU.Build.0 = Release|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.prodweb1panet|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.prodweb1panet|Any CPU.Build.0 = Release|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.testweb1panet|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC537C1-5037-4587-94B5-CE6912D7B7B3}.testweb1panet|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://prodtfs1panet.miamidade.gov:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PublicServiceRequest.Admin.Service\\PublicServiceRequest.Admin.Service.csproj
+		SccProjectName1 = PublicServiceRequest.Admin.Service
+		SccLocalPath1 = PublicServiceRequest.Admin.Service
+		SccProjectUniqueName2 = PublicServiceRequest.Admin.DAL\\PublicServiceRequest.Admin.DAL.csproj
+		SccProjectName2 = PublicServiceRequest.Admin.DAL
+		SccLocalPath2 = PublicServiceRequest.Admin.DAL
+		SccProjectUniqueName3 = PublicServiceRequest.Admin.BLL\\PublicServiceRequest.Admin.BLL.csproj
+		SccProjectName3 = PublicServiceRequest.Admin.BLL
+		SccLocalPath3 = PublicServiceRequest.Admin.BLL
+		SccProjectUniqueName4 = PublicServiceRequest.Admin.Common\\PublicServiceRequest.Admin.Common.csproj
+		SccProjectName4 = PublicServiceRequest.Admin.Common
+		SccLocalPath4 = PublicServiceRequest.Admin.Common
+	EndGlobalSection
+EndGlobal
